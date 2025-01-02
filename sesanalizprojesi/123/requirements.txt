@@ -1,0 +1,11 @@
+streamlit
+numpy
+matplotlib
+librosa
+SpeechRecognition
+joblib
+scikit-learn
+sounddevice
+scipy
+selenium
+pytest
